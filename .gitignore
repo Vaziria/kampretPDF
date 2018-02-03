@@ -1,3 +1,3 @@
-/vendor/
-/sitemap/*.txt
-/src/cache/*
+vendor/
+sitemap/*.txt
+src/cache/*
