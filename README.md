@@ -1,0 +1,6 @@
+#Vaziria
+
+script untuk spamming...
+
+
+
