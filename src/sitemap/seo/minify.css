@@ -1,0 +1,58 @@
+.pull-left{
+	float:left!important
+	}
+body{
+	margin:auto;
+	line-height:1.7;
+	max-width:auto
+	}
+a{
+	color:#333;
+	text-decoration:none
+	}
+a:hover,a:focus,a:active{
+	text-decoration:none
+	}
+a:focus{
+	outline:none
+	}
+ul{
+	list-style:none
+}
+.ktz-inner-content{
+	margin-top:15px;
+	margin-bottom:15px
+	}
+#ktz_slidebox{
+		text-align:left;
+		max-width:280px;
+		width:100%;
+		background:#fff;
+		position:fixed;
+		bottom:80px;
+		right:-330px;
+		border-width:3px 0px 3px 3px;
+		border-style:solid;
+		border-color:#ecf0f1;
+		padding:10px;
+		z-index:100
+		}
+#ktz_slidebox strong{
+		color:#2c3e50
+		}
+#ktz_slidebox ul{
+		list-style:none;
+		display:block;
+		padding-left:0px;
+		margin:0px;
+		margin-top:3px;
+		padding-top:6px;
+		border-top:3px solid #ecf0f1
+		}
+#ktz_slidebox ul li{
+		margin-bottom:3px;
+		padding-bottom:3px
+}
+#ktz_slidebox ul li a{
+		font-size:12px
+		}

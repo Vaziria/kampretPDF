@@ -1,0 +1,14 @@
+{
+    "name": "kampret/pdfbrilian",
+    "description": "grab brilian",
+    "type": "project",
+    "require": {
+        "mpdf/mpdf": "5.7.1"
+    },
+    "authors": [
+        {
+            "name": "kampret",
+            "email": "sweetestname@gmail.com"
+        }
+    ]
+}
